@@ -14,7 +14,7 @@ class Complex {
     }
 }
 
-public class complexNumberAddition {
+public class ComplexAddition {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
